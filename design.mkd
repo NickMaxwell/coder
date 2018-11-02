@@ -41,10 +41,10 @@ anything I want, as much as I want
 ## Alternatives considered
 
 * Open Data Toolkit
-** No longer supported
-* Python / Java
-** Not well set up for GUI interfaces
-** Portability
+  * No longer supported
+* Python / Java  
+  * Not well set up for GUI interfaces
+  * Portability
 
 ## Development Plan & Estimates
 
