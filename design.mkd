@@ -1,2 +1,52 @@
 # Open-Ended Coding Assistant
 
+## Goals
+Make manual coding of open-ended text data easy
+
+
+## Background
+
+Typical current method is typing stuff into Excel, which is kludgey and confusing.
+
+
+
+
+## Design
+This would allow a person to just start clicking on buttons in a coding interface to create a code system.
+A coding session looks like this:
+
+1. User selects HTML files
+2. Systems starts presenting the HTML files in a random order
+3. User creates codes as they occur to the user by looking at the text
+4. After a complete set of codes is created, user codes remaining files
+5. Initial files from the code-creation phase are re-shown to the user for coding with the full code set
+6. Data saves on client machine in .csv form
+
+
+### Detailed Design
+anything I want, as much as I want
+
+### Testing
+
+#### Unit tests
+
+#### Integration Testing
+
+## Roll Out / Deployment
+
+## Monitoring
+
+## Logging
+
+## Alternatives considered
+
+* Open Data Toolkit
+** No longer supported
+* Python / Java
+** Not well set up for interface
+** Portability
+
+## Development Plan & Estimates
+
+
+
