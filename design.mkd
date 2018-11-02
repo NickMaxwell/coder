@@ -43,7 +43,7 @@ anything I want, as much as I want
 * Open Data Toolkit
 ** No longer supported
 * Python / Java
-** Not well set up for interface
+** Not well set up for GUI interfaces
 ** Portability
 
 ## Development Plan & Estimates
